@@ -23,3 +23,27 @@
   > [Executor Resource Allocation](https://sparkbyexamples.com/spark/spark-tune-executor-number-cores-and-memory/)
 - Static and Dynamic Allocation
   > [Dynamic Allocation in Apache Spark](https://community.cloudera.com/t5/Community-Articles/Dynamic-Allocation-in-Apache-Spark/ta-p/368095)
+- Typical Job Submission
+  > [Job Scheduling](https://spark.apache.org/docs/latest/job-scheduling.html#:~:text=By%20default%2C%20Spark's%20scheduler%20runs,second%20job%20gets%20priority%2C%20etc.)
+- Spark Session and Spark Context
+  > [Spark Session](https://spark.apache.org/docs/latest/sql-getting-started.html#starting-point-sparksession)
+  
+  > [Spark Context](https://sparkbyexamples.com/pyspark/pyspark-sparkcontext-explained/)
+- Spark Session Configuration
+  > [Spark Session Configuration](https://sparkbyexamples.com/pyspark/spark-session-configuration-in-pyspark/)
+- Spark APIs
+  > [RDD](https://spark.apache.org/docs/latest/rdd-programming-guide.html)
+  
+  > [RDD - Documentation](https://docs.aws.amazon.com/prescriptive-guidance/latest/tuning-aws-glue-for-apache-spark/key-topics-apache-spark.html#rdd)
+  
+  > [DataFrame](https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/dataframe.html)
+  
+  > Dataset
+  
+  > Spark SQL
+- Transformation and Action
+- Narrow and Wide Transformation
+- Partition Strategy in Spark
+- Spark Physical plan
+- Spark Catalyst Optimizer
+  > [Spark Catalyst Optimizer](https://medium.com/@ashwin_kumar_/spark-catalyst-optimizer-7f44d893a282)
