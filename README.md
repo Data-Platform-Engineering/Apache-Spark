@@ -47,3 +47,5 @@
 - Spark Physical plan
 - Spark Catalyst Optimizer
   > [Spark Catalyst Optimizer](https://medium.com/@ashwin_kumar_/spark-catalyst-optimizer-7f44d893a282)
+
+- EMR Deployment
