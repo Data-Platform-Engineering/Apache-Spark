@@ -8,7 +8,7 @@ The project will have 2 sections, the `Infrastructure setup` and the `Data Proce
 ### Infrastructure requirements
 The below are required and `Terraform` should be the standard means to deploy the infrastructures
 - Dedicated VPC Stacks ( Don't use the Default VPC stacks )
-- Production Grade `EMR Cluster` ( Spark ) deployment with Terraform
+- Production Grade `EMR Cluster` ( Spark )
 - Data Lake set up to hold the Olist `Customer` and `Geolocation` Dataset and also to write the result of each business questions.
 
 ### Data Processing
