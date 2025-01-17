@@ -12,7 +12,7 @@ The below are required and `Terraform` should be the standard means to deploy th
 - Data Lake set up to hold the Olist `Customer` and `Geolocation` Dataset and also to write the result of each business questions.
 
 ### Data Processing
-In the event of processing the Files with spark, some below Data processing requirement is required
+In the event of processing the Files with spark, the below Data processing requirement is required
 - tbd
 - tbd
 - tbd
