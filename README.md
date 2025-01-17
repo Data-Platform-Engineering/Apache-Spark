@@ -44,7 +44,7 @@
 - Transformation and Action
 - Narrow and Wide Transformation
 - Partition Strategy in Spark
-- Spark Physical plan
+- [Spark Query plan](https://www.youtube.com/watch?v=KnUXztKueMU&list=PLWAuYt0wgRcLCtWzUxNg4BjnYlCZNEVth)
 - Spark Catalyst Optimizer
   > [Spark Catalyst Optimizer](https://medium.com/@ashwin_kumar_/spark-catalyst-optimizer-7f44d893a282)
 
