@@ -48,4 +48,4 @@
 - Spark Catalyst Optimizer
   > [Spark Catalyst Optimizer](https://medium.com/@ashwin_kumar_/spark-catalyst-optimizer-7f44d893a282)
 
-- EMR Deployment
+- [Amazon EMR Deployment](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-what-is-emr.html)
