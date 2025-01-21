@@ -48,4 +48,8 @@
 - Spark Catalyst Optimizer
   > [Spark Catalyst Optimizer](https://medium.com/@ashwin_kumar_/spark-catalyst-optimizer-7f44d893a282)
 
-- [Amazon EMR Deployment](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-what-is-emr.html)
+- Amazon EMR Deployment
+  > [Amazon EMR Deployment](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-what-is-emr.html)
+
+- Spark Application Manager
+  > [Application Manager Article](https://medium.com/@nikaljeajay36/anatomy-of-spark-application-e905e5575e9e#:~:text=The%20Application%20Master%20is%20responsible%20for%20managing%20the%20lifecycle%20of,and%20monitor%20the%20application's%20progress)
