@@ -10,7 +10,7 @@
 - Spark Cluster
   > [Apach Spark Cluster Overview](https://spark.apache.org/docs/latest/cluster-overview.html)
   
-  > [Spark Driver](https://docs.aws.amazon.com/prescriptive-guidance/latest/tuning-aws-glue-for-apache-spark/key-topics-apache-spark.html#spark-architecture)
+  > [Spark Driver](https://sparkbyexamples.com/spark/what-is-apache-spark-driver/)
   
   > [Cluster Resource Allocation](https://spark.apache.org/docs/latest/job-scheduling.html#dynamic-resource-allocation)
   
