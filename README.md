@@ -50,6 +50,8 @@
 
 - Amazon EMR Deployment
   > [Amazon EMR Deployment](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-what-is-emr.html)
+  
+  > [Understand node types in Amazon EMR: primary, core, and task nodes](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-master-core-task-nodes.html#:~:text=Core%20nodes%20are%20managed%20by,data%20that%20installed%20applications%20require) 
 
 - Spark Application Manager
   > [Application Manager Article](https://medium.com/@nikaljeajay36/anatomy-of-spark-application-e905e5575e9e#:~:text=The%20Application%20Master%20is%20responsible%20for%20managing%20the%20lifecycle%20of,and%20monitor%20the%20application's%20progress)
