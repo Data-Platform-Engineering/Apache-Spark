@@ -41,9 +41,9 @@
   > Dataset
   
   > Spark SQL
-- Transformation and Action
+- [Transformation and Action](https://medium.com/@santosh_joshi_data/study-notes-understanding-actions-and-transformations-in-apache-spark-f9bc7d55967a)
 - Narrow and Wide Transformation
-- Partition Strategy in Spark
+- [Partition Strategy in Spark](https://www.youtube.com/watch?v=fZndmQasykk&list=PLWAuYt0wgRcLCtWzUxNg4BjnYlCZNEVth&index=6)
 - [Spark Internal Execution plan](https://sparkbyexamples.com/spark/spark-execution-plan/)
 - Spark Catalyst Optimizer
   > [Spark Catalyst Optimizer](https://medium.com/@ashwin_kumar_/spark-catalyst-optimizer-7f44d893a282)
