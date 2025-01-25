@@ -23,6 +23,7 @@ def data_generator(max_records: int) -> list[dict]:
             batch = response.json()
             data.extend(batch)
             iteration += 1
+            offset += 1000
             logging.info(f'Currently on {iteration} iteration: Retrieved {len(batch)} records, Total records: {len(data)}')
         else:
             logging.error(f'Failed to fetch data at offset {offset}, Status Code: {response.status_code}')
@@ -34,4 +35,4 @@ def data_generator(max_records: int) -> list[dict]:
     return data
 
 if __name__ == "__main__":
-    data_generator(1)
+    data_generator(6000)
